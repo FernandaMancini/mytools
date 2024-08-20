@@ -4,4 +4,4 @@
     <span>Programação 2</span></h1>
 
 <h2>mytools</h2>
-<p><strong>Aula Prática 1:</strong> Na priumeira aula prática, foi criado este repositório com o  README.md e foi adicionado a Pasta MYTOOLS</p>
+<p><strong>Aula Prática 1:</strong> Na primeira aula prática, foi criado o repositório com o README.md e foi adicionado a Pasta MYTOOLS</p>
